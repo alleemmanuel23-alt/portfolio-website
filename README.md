@@ -27,5 +27,8 @@ This website showcases who I am, the services i offer, and the project i'ave bui
 ## License 
 This project is open source and free to use.
 
+## Live Demo
+Click here to view the live site: https://chic-tapioca-2de45c.netlify.app
+
 ## About 
 Alle Emmanuel - Web Developer
